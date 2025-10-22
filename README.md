@@ -57,9 +57,6 @@ After training, the model achieved:
 | **Loss** | Decreasing steadily with no overfitting |
 
 🟢 The confusion matrix and sample predictions confirm strong recognition performance across all 43 traffic sign categories.
-
-![Training Graph](docs/confusion_matrix_0–7.png)
-
 ---
 
 ## 🖼 Example Predictions
@@ -72,5 +69,20 @@ The confusion matrix shows clear differentiation between visually similar signs 
 - **Speed Limit 60 vs 70**
 - **Stop vs No Entry**
 - **Priority Road vs Warning Signs**
+![Training Graph](docs/confusion_matrix%200–7.png)
+
+---
+
+## 🧑‍💻 Author
+
+**[Denys]**  
+🌍 Passionate about AI, healthcare, and computer vision.  
+📫 Reach me at: [denys.zakharov.work@gmail.com]  
+
+---
+
+## 🪪 License
+
+This project is licensed under the **MIT License** — feel free to use and modify it.  
 
 ---
