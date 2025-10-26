@@ -75,9 +75,9 @@ The confusion matrix shows clear differentiation between visually similar signs 
 
 ## 🧑‍💻 Author
 
-**[Denys]**  
-🌍 Passionate about AI, healthcare, and computer vision.  
-📫 Reach me at: [denys.zakharov.work@gmail.com]  
+**Denys**  
+Passionate about AI, healthcare, and computer vision.  
+Reach me at: [denys.zakharov.work@gmail.com]  
 
 ---
 
