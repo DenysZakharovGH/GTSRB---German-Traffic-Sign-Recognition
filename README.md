@@ -80,9 +80,3 @@ Passionate about AI and computer vision.
 Reach me at: [denys.zakharov.work@gmail.com]  
 
 ---
-
-## 🪪 License
-
-This project is licensed under the **MIT License** — feel free to use and modify it.  
-
----
